@@ -47,3 +47,7 @@ C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /target:winexe /
 - Windows draws the full maximize first, so you may see a brief jump as the window moves into the centered position.
 - Windows running as administrator (Task Manager, for example) can't be moved by a non-admin program, so they maximize normally. Running Ultrawide Maximize as administrator would cover those too.
 - A few programs with unusual custom title bars may not behave perfectly.
+
+## License
+
+[MIT](LICENSE)
